@@ -8,7 +8,6 @@ namespace MyPC_1250_UI_Automation.Tests
     class LoginInMyPC : WebDriverTestBase
     {
         
-
         [Test]
         public void LoginInPC()
         {
@@ -22,8 +21,8 @@ namespace MyPC_1250_UI_Automation.Tests
             MyPCLoginPage.LoginButton.WaitUntil().Present().Click();
 
             //Need to find a better solution
-            NavigationPage navigation = new NavigationPage();
-            navigation.OpenStartPage();
+            
+            Navigation.OpenStartPage();
 
             StartPage.LogOutButton.Click();
         }

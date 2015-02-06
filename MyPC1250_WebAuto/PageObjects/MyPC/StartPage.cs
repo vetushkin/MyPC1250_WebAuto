@@ -12,6 +12,8 @@ namespace MyPC1250_WebAuto.PageObjects.MyPC
     {
         public static Element LogOutButton = new Element("LogOutButton", By.XPath(".//*[@id='MastheadDiv']//*[@local-string='logout']"));
         
+
+
         public override void WaitForElements()
         {
             LogOutButton.Verify().Present();
