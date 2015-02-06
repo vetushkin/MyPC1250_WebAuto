@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ProtoTest.Golem</id>
+    <version>1.2.3.6</version>
+    <title>ProtoTest.Golem</title>
+    <authors>LLC</authors>
+    <owners>LLC</owners>
+    <projectUrl>http://www.github.com/prototest/prototest.golem</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Selenium/MbUnit Test Automation Framework</description>
+    <releaseNotes>Adding Newtonsoft.json to the package</releaseNotes>
+    <copyright>Copyright 2014, ProtoTest</copyright>
+    <language />
+    <tags>Selenium WebDriver Framework Golem ProtoTest Gallio MbUnit Rest White TestStack Test Testing</tags>
+    <dependencies>
+      <dependency id="Gallio_MbUnit" version="3.4.14.0" />
+      <dependency id="Selenium.Support" version="2.44.0" />
+      <dependency id="Selenium.WebDriver" version="2.44.0" />
+      <dependency id="Castle.Core" version="3.2.2" />
+      <dependency id="NUnit" version="2.6.4" />
+      <dependency id="Newtonsoft.Json" version="6.0.8" />
+      <dependency id="DotNetZip" version="1.9.3" />
+      <dependency id="HtmlAgilityPack" version="1.4.9" />
+      <dependency id="RestSharp" version="105.0.1" />
+    </dependencies>
+  </metadata>
+</package>
