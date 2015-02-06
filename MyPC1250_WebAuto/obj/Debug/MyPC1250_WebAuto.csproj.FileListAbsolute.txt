@@ -28,3 +28,4 @@ C:\Users\vvetushkin\Documents\GitHub\MyPC1250_WebAuto\MyPC1250_WebAuto\obj\Debug
 C:\Users\vvetushkin\Documents\GitHub\MyPC1250_WebAuto\MyPC1250_WebAuto\bin\Debug\NHamcrest.dll
 C:\Users\vvetushkin\Documents\GitHub\MyPC1250_WebAuto\MyPC1250_WebAuto\bin\Debug\NHamcrest.pdb
 C:\Users\vvetushkin\Documents\GitHub\MyPC1250_WebAuto\MyPC1250_WebAuto\bin\Debug\MyPC1250_WebAuto.dll.config
+C:\Users\vvetushkin\Documents\GitHub\MyPC1250_WebAuto\MyPC1250_WebAuto\obj\Debug\MyPC1250_WebAuto.csprojResolveAssemblyReference.cache

@@ -21,7 +21,7 @@ namespace MyPC_1250_UI_Automation.Tests
             //MyPCLoginPage.ProjectList.Click();
             MyPCLoginPage.LoginButton.WaitUntil().Present().Click();
 
-            //Need to find a better solution
+            //Need to find a better solution!
             NavigationPage navigation = new NavigationPage();
             navigation.OpenStartPage();
 

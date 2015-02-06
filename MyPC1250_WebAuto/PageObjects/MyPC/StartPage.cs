@@ -10,7 +10,7 @@ namespace MyPC1250_WebAuto.PageObjects.MyPC
 {
     public class StartPage : BasePageObject
     {
-        public static Element LogOutButton = new Element("LogOutButton", By.XPath(".//*[@id='MastheadDiv']//*[@local-string='logout']"));
+        public static Element LogOutButton = new Element("LogOutButton", By.XPath(".//*[@id='MastheadDiv']//*[@local-string='ogout']"));
         
         public override void WaitForElements()
         {
